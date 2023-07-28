@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+
+.calendar {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid rgba(34, 29, 29, 0.2);
+    padding: 10px 20px;
+    margin-top: 50px;
+    border-radius: 5px;
+}

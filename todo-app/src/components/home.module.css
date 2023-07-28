@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #F0F8FF;
+    flex-direction: column;
+}
+
+.container h1 {
+    margin: 0px;
+}

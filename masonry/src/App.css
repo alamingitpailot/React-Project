@@ -1,0 +1,43 @@
+.container {
+  width: 1500px;
+  padding: 20px 40px;
+  margin: 0 auto;
+  background-color: gray;
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  gap: 10px;
+  position: relative;
+
+}
+
+.single {
+  position: absolute;
+  /* width: 280px; */
+  /* height: 250px; */
+  background-color: #000;
+}
+
+.single1 {
+  /* height: 200px; */
+  background-color: #fff;
+}
+
+.single2 {
+  /* height: 180px; */
+  background-color: aquamarine;
+}
+
+.single3 {
+  /* height: 220px; */
+  background-color: rebeccapurple;
+}
+
+.single4 {
+  /* height: 200px; */
+  background-color: rgb(248, 121, 3);
+}
+
+.single5 {
+  /* height: 280px; */
+  background-color: #63eb36;
+}
